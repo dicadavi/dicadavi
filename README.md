@@ -69,7 +69,7 @@ Sou um **Software Engineer** e **Full-Stack Developer** apaixonado por criar sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
 </div>
 
-### DevOps & Ferramentas
+### DevOps & Automação
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
@@ -81,6 +81,16 @@ Sou um **Software Engineer** e **Full-Stack Developer** apaixonado por criar sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+</div>
+
+### Monitoramento & Automação
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
 </div>
 
 ---
@@ -98,6 +108,10 @@ Sou um **Software Engineer** e **Full-Stack Developer** apaixonado por criar sol
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-celestino-77ab66160/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  <a href="https://wa.me/5521988224269" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo" />
   </a>
 </div>
 
