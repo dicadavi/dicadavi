@@ -21,7 +21,7 @@ Sou um **Software Engineer** e **Full-Stack Developer** apaixonado por criar sol
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=dicadavi&theme=tokyonight" height="180" alt="stats graph" />
+   <img src="https://github-readme-stats.vercel.app/api?username=dicadavi&theme=tokyonight&include_all_commits=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dicadavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
 </div>
 
