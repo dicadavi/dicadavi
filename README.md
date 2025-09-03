@@ -21,12 +21,12 @@ Sou um **Software Engineer** e **Full-Stack Developer** apaixonado por criar sol
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dicadavi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dicadavi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dicadavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&hide=contribs,issues" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dicadavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicadavi&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicadavi&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="streak stats" />
 </div>
 
 ---
@@ -98,7 +98,15 @@ Sou um **Software Engineer** e **Full-Stack Developer** apaixonado por criar sol
 ## 📈 Atividade de Desenvolvimento
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dicadavi&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dicadavi&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_title=true" alt="activity graph" />
+</div>
+
+---
+
+## 🏆 Contribuições
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dicadavi&theme=tokyonight&hide_border=true" alt="profile details" />
 </div>
 
 ---
